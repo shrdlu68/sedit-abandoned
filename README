@@ -1,0 +1,5 @@
+This was meant to be a TUI tool with which you one could configure/manage an
+SElinux system. I abandoned it due to lack of documentation for libsemanage,
+and sources from which I could glean usage information.
+Newt is a simplistic TUI library, but with some cleverness one could use it
+to build sophisticated functionality.
